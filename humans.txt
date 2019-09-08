@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    venkat anand , va@gmail.com
 
 # THANKS
 
