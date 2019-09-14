@@ -16,3 +16,5 @@ This section is for support.
 
 ## Adding the master branch
 	changes done in master branch for this file to test auotmerge 
+## Master branch changes
+	master branch chnaged for rebasing test
