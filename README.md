@@ -18,3 +18,5 @@ This section is for support.
 	changes done in master branch for this file to test auotmerge 
 ## Master branch changes
 	master branch chnaged for rebasing test
+## Added this for testing the stah
+	Added this comment for testin stash
